@@ -1,0 +1,39 @@
+/* frontend/src/css/App.css */
+.App {
+    text-align: center;
+    margin: 2rem;
+    background-color: white;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 150px;
+    margin: 1rem 0;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .result-container {
+    margin-top: 2rem;
+  }
+  
+  .entity-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .entity-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 0.5rem;
+    width: 200px;
+    text-align: center;
+  }
+  

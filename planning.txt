@@ -1,0 +1,6 @@
+Write the Frontend code to keep the following compoents:
+1. The Page should have a beautiful gray themed backgroud 
+2. The Page should have a header stating "Entity Sentiment Analysis"
+3. There must be a input text box for the user to add his text. It should have placeholder text 
+4. There must be a button below the text box named "Run Analysis". There must be small tick button to select or deselect option "OpenAI"
+5. Finally, below should be a beautiful text output box to show the output
