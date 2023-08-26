@@ -1,0 +1,19 @@
+/* App.css */
+.app {
+  background-color: #f0f0f0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.Inner{
+  height: 90vh;
+  width: 80%;
+}

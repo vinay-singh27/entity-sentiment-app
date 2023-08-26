@@ -1,6 +1,14 @@
 Write the Frontend code to keep the following compoents:
 1. The Page should have a beautiful gray themed backgroud 
-2. The Page should have a header stating "Entity Sentiment Analysis"
+2. The Page should have a header stating "Entity Sentiment Analysis" with an icon
 3. There must be a input text box for the user to add his text. It should have placeholder text 
-4. There must be a button below the text box named "Run Analysis". There must be small tick button to select or deselect option "OpenAI"
+4. There must be a button below the text box named "Run Analysis".
 5. Finally, below should be a beautiful text output box to show the output
+
+
+---
+Rewrite the buttion css to have clickable effect. It should log console and should changed color on hover.
+
+Now, modify the code to perform the following actions:
+1. On clicking the button, the frontend send the data to the backend captilize function.
+2. Then, the captilize function returns the output and show it in the output box
